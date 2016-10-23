@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2016-10-23
+img: submarine.png
+alt: image-alt
+project-date: October 2016
+client: Yu Li
+category: Tech competition
+description: Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!
+
+---
