@@ -7,6 +7,6 @@ alt: image-alt
 project-date: October 2016
 client: Yu Li
 category: Tech competition
-description: Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!Creative tech competition!
+description: 作品描述信息。。。。。
 
 ---
